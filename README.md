@@ -7,8 +7,8 @@ Welcome to the Home Assistant Projects Repository! This repository serves as a h
 
 1. [Getting Started](#getting-started)
    - [Setting Up the Raspberry Pi](#setting-up-the-raspberry-pi)
-2. [Folders](#folders)
-   - [Folder 1](#folder-1)
+2. [Nodes](#nodes)
+   - [Warm Water Pump](#warmwaterpump)
 3. [Contributing](#contributing)
 4. [License](#license)
 
